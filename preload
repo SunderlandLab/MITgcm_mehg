@@ -1,0 +1,7 @@
+# modules needed to compile and run MITgcm, yanxu, 2/18/2015
+module load gcc
+module load intel
+module load netcdf/20130909
+module load openmpi/1.7.2
+export MPI_INC_DIR="/home/software/intel/intel-2013_sp1.0.080/pkg/openmpi/openmpi-1.7.2/include/"
+export NETCDF_ROOT="/home/software/intel/intel-2013_sp1.0.080/pkg/netcdf/netcdf-20130909/"

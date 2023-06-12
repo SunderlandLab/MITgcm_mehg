@@ -1,0 +1,4 @@
+#! /usr/bin/env bash
+
+../input.core2/prepare_run
+

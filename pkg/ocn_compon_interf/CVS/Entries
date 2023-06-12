@@ -1,0 +1,22 @@
+/CPL_PARAMS.h/1.6/Thu Jul 18 20:02:08 2013//
+/CPL_TAVE.h/1.1/Sun Jan  3 19:26:54 2010//
+/OCNCPL.h/1.6/Mon Dec  2 22:16:19 2013//
+/cpl_exch_configs.F/1.3/Mon Dec  2 22:16:19 2013//
+/cpl_export_my_data.F/1.3/Fri Dec 25 19:43:07 2009//
+/cpl_import_external_data.F/1.4/Sun Jan  3 19:26:54 2010//
+/cpl_ini_vars.F/1.6/Sun Jan  3 19:26:54 2010//
+/cpl_init.F/1.3/Mon Dec  2 21:42:01 2013//
+/cpl_init_fixed.F/1.4/Wed Nov 27 21:08:54 2013//
+/cpl_output.F/1.2/Sun Jan  3 19:26:54 2010//
+/cpl_readparms.F/1.13/Thu Jul 18 20:02:08 2013//
+/cpl_register.F/1.3/Wed Nov 27 21:54:45 2013//
+/cpl_write_pickup.F/1.7/Wed Nov 27 21:09:34 2013//
+/ocn_apply_import.F/1.7/Tue Apr 28 18:44:21 2009//
+/ocn_cpl_diags.F/1.4/Sun Jan  3 19:26:54 2010//
+/ocn_cpl_read_pickup.F/1.8/Thu Jul 18 20:02:08 2013//
+/ocn_export_fields.F/1.3/Fri Dec 25 19:45:13 2009//
+/ocn_export_ocnconfig.F/1.4/Mon Dec  2 22:16:19 2013//
+/ocn_import_atmconfig.F/1.3/Mon Dec  2 22:16:19 2013//
+/ocn_import_fields.F/1.3/Fri Dec 25 19:45:13 2009//
+/ocn_store_my_data.F/1.6/Thu Jul 18 20:02:08 2013//
+D

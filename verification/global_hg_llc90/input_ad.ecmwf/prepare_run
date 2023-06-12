@@ -1,0 +1,4 @@
+#! /usr/bin/env bash
+
+../input.ecmwf/prepare_run
+

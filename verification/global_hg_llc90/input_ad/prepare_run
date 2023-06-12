@@ -1,0 +1,4 @@
+#! /usr/bin/env bash
+
+../input/prepare_run
+
